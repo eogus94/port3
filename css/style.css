@@ -106,14 +106,14 @@ html {
     line-height: 1.5;
     float: left;
 /************ this ***************/
-    _padding-top: 20px;
+    padding-top: 20px;
     padding-left: 10px;
 }
 .pr_txt>div {
     font-weight: bold;
 }
 .ct_inbox {
-    padding: 20px;
+    _padding: 20px;
     background: #eee;
     border: 5px double #ccc;
 }
